@@ -1,0 +1,86 @@
+gcc -std=c99 -g -O3 -o polar_sim main.c src/*.c -lm
+
+polar_sim 10000 1.0 1 5 0
+polar_sim 10000 1.5 1 5 0
+polar_sim 5000 2.0 1 5 0
+polar_sim 1000 2.5 1 5 0
+polar_sim 200 3.0 1 5 0
+polar_sim 100 3.5 1 5 0
+polar_sim 50 4.0 1 5 0
+polar_sim 20 4.5 1 5 0
+
+polar_sim 10000 1.0 1 6 0
+polar_sim 10000 1.5 1 6 0
+polar_sim 5000 2.0 1 6 0
+polar_sim 1000 2.5 1 6 0
+polar_sim 200 3.0 1 6 0
+polar_sim 100 3.5 1 6 0
+polar_sim 50 4.0 1 6 0
+polar_sim 20 4.5 1 6 0
+
+polar_sim 10000 1.0 1 8 0
+polar_sim 10000 1.5 1 8 0
+polar_sim 5000 2.0 1 8 0
+polar_sim 1000 2.5 1 8 0
+polar_sim 200 3.0 1 8 0
+polar_sim 100 3.5 1 8 0
+polar_sim 50 4.0 1 8 0
+polar_sim 20 4.5 1 8 0
+
+
+polar_sim 10000 1.0 2 5 0
+polar_sim 10000 1.5 2 5 0
+polar_sim 5000 2.0 2 5 0
+polar_sim 1000 2.5 2 5 0
+polar_sim 200 3.0 2 5 0
+polar_sim 100 3.5 2 5 0
+polar_sim 50 4.0 2 5 0
+polar_sim 20 4.5 2 5 0
+
+polar_sim 10000 1.0 2 6 0
+polar_sim 10000 1.5 2 6 0
+polar_sim 5000 2.0 2 6 0
+polar_sim 1000 2.5 2 6 0
+polar_sim 200 3.0 2 6 0
+polar_sim 100 3.5 2 6 0
+polar_sim 50 4.0 2 6 0
+polar_sim 20 4.5 2 6 0
+
+polar_sim 10000 1.0 2 8 0
+polar_sim 10000 1.5 2 8 0
+polar_sim 5000 2.0 2 8 0
+polar_sim 1000 2.5 2 8 0
+polar_sim 200 3.0 2 8 0
+polar_sim 100 3.5 2 8 0
+polar_sim 50 4.0 2 8 0
+polar_sim 20 4.5 2 8 0
+
+
+polar_sim 10000 1.0 4 5 0
+polar_sim 10000 1.5 4 5 0
+polar_sim 5000 2.0 4 5 0
+polar_sim 1000 2.5 4 5 0
+polar_sim 200 3.0 4 5 0
+polar_sim 100 3.5 4 5 0
+polar_sim 50 4.0 4 5 0
+polar_sim 20 4.5 4 5 0
+
+polar_sim 10000 1.0 4 6 0
+polar_sim 10000 1.5 4 6 0
+polar_sim 5000 2.0 4 6 0
+polar_sim 1000 2.5 4 6 0
+polar_sim 200 3.0 4 6 0
+polar_sim 100 3.5 4 6 0
+polar_sim 50 4.0 4 6 0
+polar_sim 20 4.5 4 6 0
+
+polar_sim 10000 1.0 4 8 0
+polar_sim 10000 1.5 4 8 0
+polar_sim 5000 2.0 4 8 0
+polar_sim 1000 2.5 4 8 0
+polar_sim 200 3.0 4 8 0
+polar_sim 100 3.5 4 8 0
+polar_sim 50 4.0 4 8 0
+polar_sim 20 4.5 4 8 0
+
+
